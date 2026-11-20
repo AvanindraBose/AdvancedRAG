@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "ipykernel>=7.4.0",
+    "jq>=1.13.0",
     "langchain>=1.5.2",
     "langchain-community>=0.4.2",
     "pdfminer>=20191125",
