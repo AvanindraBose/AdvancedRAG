@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "beautifulsoup4>=4.15.0",
+    "docling>=2.151.1",
     "ipykernel>=7.4.0",
     "jq>=1.13.0",
     "langchain>=1.5.2",
