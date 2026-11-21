@@ -10,6 +10,7 @@ dependencies = [
     "jq>=1.13.0",
     "langchain>=1.5.2",
     "langchain-community>=0.4.2",
+    "langchain-docling[local]>=3.0.0",
     "pdfminer>=20191125",
     "pdfminer-six>=20260107",
     "pypdf>=7.1.1",
