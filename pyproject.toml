@@ -19,4 +19,5 @@ dependencies = [
     "pytesseract>=0.3.13",
     "rapidocr>=3.10.0",
     "rapidocr-onnxruntime>=1.4.4",
+    "termcolor>=3.3.0",
 ]
